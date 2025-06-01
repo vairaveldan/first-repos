@@ -1,2 +1,5 @@
 this is a file created by the echo cmd
+
+space
+
 cmd : "echo "comtent" > file_name.txt""
