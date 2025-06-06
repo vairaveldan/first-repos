@@ -4,4 +4,4 @@ hi from the 3.txt file in the first repos.
 I am glad to update this one.
 this is hp-laptop 247 G8 notebook pc.
 I want to change my laptop fan.
-
+fan price is 800.
