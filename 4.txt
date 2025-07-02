@@ -1,4 +1,5 @@
-54321this is a file created by the echo cmd
+54321
+this is a file created by the echo cmd
 
 space
 
